@@ -1,0 +1,335 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+FR+Moderne:wght@100..400&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Playwrite+FR+Moderne:wght@100..400&display=swap');
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Cinzel+Decorative:wght@400;700;900&family=Playwrite+FR+Moderne:wght@100..400&display=swap');
+
+
+
+
+nav{
+    text-align: right;
+    height: 4vh;
+    width: 62vh;
+    justify-content: space-between;
+    letter-spacing: 3px;
+    word-spacing: 20px;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 1000px;
+    font-family: Cinzel Decorative;
+    background-color: aliceblue;
+    color: black;
+    
+    padding-top: 5px;
+    padding-right: 17px;
+    
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+
+
+    /* Playwrite FR Moderne */
+
+
+
+
+    /* height: 100vh;
+    width: 70vh;
+    min-width: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+    margin: 0px;
+    margin-top: -280px; */
+}
+
+nav:hover{
+    background-color: goldenrod;
+    color: white;
+
+}
+
+
+
+h1{
+    font-size:xx-large;
+    text-align: center;
+    color:rgb(7, 79, 6) ;
+    font-family: Cinzel Decorative;
+    font-weight: lighter;
+    text-decoration: overline aliceblue;
+}
+
+
+
+
+
+h2{
+    font-size: x-large;
+    font-family: Playwrite FR Moderne;
+    letter-spacing: 0.1px;
+    color: rgb(7, 79, 6);
+    text-align: center;
+    font-weight: 300;
+    text-decoration: overline aliceblue;
+
+}
+
+
+body{
+    background-image: url(pexels-pok-rie-3076311.jpg);
+    background-size: cover;
+}
+
+
+/* 
+
+h6{
+    background-color: rgb(7, 79, 6);
+    color:aliceblue;
+    height: 22px;
+    width: 95px;
+    border-radius: 20px;
+    padding: 4px;
+    padding-left: 20px;
+    font-family: Cinzel Decorative;
+}
+h6:hover{
+    background-color: aliceblue;
+    color:rgb(7, 79, 6) ;
+} */
+
+
+
+
+.About{
+    font-family: Playwrite FR Moderne;
+    color: rgb(7, 79, 6);
+    word-spacing: 1px;
+    width: 550px;
+    height: 340px;
+    background-color: aliceblue;
+    border-radius: 20px;
+    padding: 1px 3px;
+    margin-left: 900px;
+    margin-top: 30px;
+    text-align: center;
+}
+.About:hover{
+    background-color:rgb(7, 79, 6) ;
+    color: aliceblue;
+}
+
+
+
+
+.Service{
+    color:rgb(7, 79, 6) ;
+    font-family: Playwrite FR Moderne;
+    width: 560px;
+    height: 420px;
+    background-color: aliceblue;
+    border-radius: 20px;
+    padding: 2px;
+    text-align: center;
+    margin-left: 50px;
+
+}
+.Service:hover{
+    background-color:rgb(7, 79, 6) ;
+    color: aliceblue;
+}
+
+
+
+h4{
+    background-color: rgb(7, 79, 6);
+    color:aliceblue;
+    height: 22px;
+    width: 95px;
+    margin-left: 50px;
+    border-radius: 20px;
+    padding: 4px;
+    padding-left: 20px;
+    font-family: Cinzel Decorative;
+}
+h4:hover{
+    background-color: aliceblue;
+    color:rgb(7, 79, 6) ;
+}
+
+
+
+.Contact{
+    font-family:Playwrite FR Moderne ;
+    color: rgb(7, 79, 6);
+    background-color: aliceblue;
+    width: 360px;
+    height: 390px;
+    text-align: center;
+    border-radius: 20px;
+    font-size:small;
+    margin-top: 30px;
+    margin-left: 580px;
+
+}
+.Contact:hover{
+    background-color: rgb(7, 79, 6);
+    color: aliceblue;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h5{
+    background-color: rgb(7, 79, 6);
+    color:aliceblue;
+    height: 22px;
+    width: 125px;
+    border-radius: 20px;
+    padding: 1px;
+    padding-top: 6px;
+    padding-left: 20px;
+    font-family: Cinzel Decorative;
+    margin-left: 675px;
+    margin-top: 40px;
+}
+h5:hover{
+    background-color: aliceblue;
+    color:rgb(7, 79, 6) ;
+}
+
+
+
+
+h6{
+    background-color: rgb(7, 79, 6);
+    color:aliceblue;
+    font-family: Cinzel Decorative;
+    margin-left: 900px;
+    margin-top: 50px;
+    height: 22px;
+    width: 50px;
+    padding: 1px;
+    padding-top: 7px;
+    border-radius: 15px;
+    padding-left: 10px;
+
+
+}
+h6:hover{
+    background-color: aliceblue;
+    color:rgb(7, 79, 6) ;
+}
+
+
+
+
+
+
+
+.moreinfo{
+    background-color: rgb(7, 79, 6);
+    color: aliceblue;
+    text-align: center;
+    margin-top: 100px;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+
+
+
+.photo{
+    width: 21%;
+    height: 45vh;
+    display: flex;
+    margin-left: 150px;
+    margin-top: -310px;
+    padding: 0px;
+
+}
+.photo img{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    border: 10 solid white;
+}
+
+
+
+.photo2 {
+    width: 21%;
+    height: 45vh;
+    margin-left: 1000px;
+   margin-top: -350px;
+    display: flex;
+
+
+}
+.photo2 img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 10 solid white;
+}
+
+
+
+
+
+.socials{
+    background-color: rgb(7, 79, 6);
+    width: 1505px;
+    height: 79px;
+    text-align: center;
+    padding-top: 0.09px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
