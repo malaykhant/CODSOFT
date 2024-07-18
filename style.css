@@ -7,12 +7,10 @@
 }
 
 
-
-
-
-
 .logo {
     text-align: center;
+    margin-top: -200px;
+    padding: 25px;
     
 }
 .logo:hover{
@@ -73,7 +71,8 @@ h1:hover{
     margin-left: 500px;
     padding: 1px;
     position: relative;
-    top:1px
+    top:1px;
+    border-radius: 20px;
 
    
     
@@ -125,6 +124,7 @@ h3:hover{
     margin-top: 160px;
     margin-left: 500px;
     padding-top: 1px;
+    border-radius: 20px;
 
     animation-name: slideright;
     animation-duration: 2s;
@@ -161,6 +161,7 @@ h4{
     text-align: center;
     margin-left: 500px;
     margin-top: 160px;
+    border-radius: 20px;
 
     animation-name: slideright;
     animation-duration: 2s;
@@ -179,6 +180,7 @@ h4{
     margin-left: 500px;
     margin-top: 160px;
     padding-top: 1px;
+    border-radius: 20px;
 
     animation-name: slideright;
     animation-duration: 2s;
@@ -213,6 +215,7 @@ h5{
     margin-top: 250px;
     text-align: center;
     font-style:normal;
+    border-radius: 20px;
 
     animation-name: slideright;
     animation-duration: 2s;
@@ -244,7 +247,7 @@ h6{
     width: 1505px;
     height: 200px;
     text-align: center;
-    padding-top: 26px;
+    padding-top: 10px;
     margin-top: 160px;
 
 }
@@ -255,13 +258,6 @@ h6{
 
 
 
-/* .container {
-    color: aliceblue;
-    background-color: white;
-    text-decoration: none;
-    width: 180px;
-    text-align: left;
-} */
 
 
 
@@ -302,23 +298,26 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-around;
-    margin-top: -150px;
-    margin-left: 450px;
-    margin-bottom: -200px;
+
+    margin: 0px;
+    margin-top: -280px; 
+    
 }
 a{
+
+
     position: relative;
     text-decoration: none;
     color: aliceblue;
     font-size: x-large;
-    letter-spacing: 1px;
+    letter-spacing: 0.5px;
     font-style: italic;
     font-weight: bolder;
     padding: 10px;
-    
-
-
+     
+ 
 }
+
 a:after{
     
     position: absolute;
@@ -349,6 +348,8 @@ a:hover:after{
     margin-bottom: 50px;
     width: 1505px;
     text-align: center;
+    height: 40px;
+    padding-top: 12px;
 
 }
 .footer:hover{
